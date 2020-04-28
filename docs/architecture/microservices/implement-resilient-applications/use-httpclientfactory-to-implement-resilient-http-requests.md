@@ -1,5 +1,5 @@
 ---
-title: 使用 IHttpClientFactory 实现复原 HTTP 请求
+title: 使用 IHttpClientFactory 实现弹性化 HTTP 请求
 description: 了解如何使用自 .NET Core 2.1 起可用的 IHttpClientFactory 来创建 `HttpClient` 实例，使其更轻松地在应用程序中使用。
 ms.date: 03/03/2020
 ms.openlocfilehash: 088fb6c7e10ad656247ee4065da5c13d383b2cf7
